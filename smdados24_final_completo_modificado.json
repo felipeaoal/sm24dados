@@ -1,0 +1,74 @@
+{
+  "ClubData": [
+    {
+      "ID": 1692,
+      "Name": "Paris Red Bull",
+      "ShortName": "PRB",
+      "ImageURL": "https://i.imgur.com/GtLqUpE.png",
+      "KitData": {
+        "Home": {
+          "ShirtURL": "https://i.ibb.co/3Dw6QNJ/parisredbull-home.png",
+          "ShortsURL": "https://i.ibb.co/3Dw6QNJ/parisredbull-home.png",
+          "SocksURL": "https://i.ibb.co/3Dw6QNJ/parisredbull-home.png"
+        },
+        "Away": {
+          "ShirtURL": "https://i.imgur.com/Vh47aPZ.png",
+          "ShortsURL": "https://i.imgur.com/Vh47aPZ.png",
+          "SocksURL": "https://i.imgur.com/Vh47aPZ.png"
+        }
+      },
+      "Stadium": {
+        "ID": 1692,
+        "Name": "Red Bull Paris",
+        "Capacity": 20000,
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Stade_Charléty_-_Paris.jpg/800px-Stade_Charléty_-_Paris.jpg"
+      }
+    },
+    {
+      "ID": 1232,
+      "Name": "London City",
+      "ShortName": "LON",
+      "ImageURL": "https://i.postimg.cc/FHxcVzxX/file-00000000d5d461f796d542f08f2e8400.png",
+      "KitData": {
+        "Home": {
+          "ShirtURL": "https://i.postimg.cc/YSPCkBxs/file-000000001660622f982833252f1a00bd-1.png",
+          "ShortsURL": "https://i.postimg.cc/YSPCkBxs/file-000000001660622f982833252f1a00bd-1.png",
+          "SocksURL": "https://i.postimg.cc/YSPCkBxs/file-000000001660622f982833252f1a00bd-1.png"
+        },
+        "Away": {
+          "ShirtURL": "https://i.postimg.cc/PqvCFMGZ/Smart-Select-20250429-214801-Google.jpg",
+          "ShortsURL": "https://i.postimg.cc/PqvCFMGZ/Smart-Select-20250429-214801-Google.jpg",
+          "SocksURL": "https://i.postimg.cc/PqvCFMGZ/Smart-Select-20250429-214801-Google.jpg"
+        }
+      },
+      "Stadium": {
+        "ID": 1232,
+        "Name": "London City Stadium",
+        "Capacity": 22000,
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/London_City_Stadium.jpg/800px-London_City_Stadium.jpg"
+      }
+    }
+  ],
+  "PlayerData": [
+    {
+      "ID": 114689,
+      "Forename": "Felipe",
+      "Surname": "AUGUSTO",
+      "Age": 17,
+      "Country": "Holanda",
+      "Position": "MO,A(DC)",
+      "Foot": "Ambos",
+      "ImageURL": "https://i.imgur.com/3M9j6CZ.jpg"
+    },
+    {
+      "ID": 195810,
+      "Forename": "Bartolomeu",
+      "Surname": "QUISSANGA",
+      "Age": 34,
+      "Country": "Angola",
+      "Position": "D(C)",
+      "Foot": "Direito",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/195810.png"
+    }
+  ]
+}
